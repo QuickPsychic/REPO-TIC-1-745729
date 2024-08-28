@@ -1,4 +1,4 @@
 #ignoramos archivo "log_prueba.txt" en la raiz - Si usas "#" se comentara
 /log_prueba.txt
 /modules
-.log
+*.log
